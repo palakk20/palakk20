@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Palak Kashyap</h1>
 <h3 align="center">Data Science & AI/ML Enthusiast 🚀</h3>
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpalakk20"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpalakk20&label=visitors%20count&labelColor=%232ccce4&countColor=%23555555" /></a>
+
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on **Implementing AI & ML for real-world problem-solving**.
 
